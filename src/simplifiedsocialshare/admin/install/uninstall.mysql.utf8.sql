@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS `#__oss_share_settings`;

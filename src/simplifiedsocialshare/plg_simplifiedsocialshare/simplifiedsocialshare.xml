@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.0" type="plugin" group="content">
+    <name>Simplified Social Share</name>
+    <license>GNU/GPL</license>
+    <author>Social9 Team</author>
+    <authorEmail>developers@social9.com</authorEmail>
+    <authorUrl>https://www.social9.com</authorUrl>
+    <creationDate>2015-09-16</creationDate>
+    <copyright>2015, social9</copyright>
+    <version>6.0</version>
+    <description>Social9 enables social share for your joomla websites.</description>
+    <files>
+        <file plugin="simplifiedsocialshare">simplifiedsocialshare.php</file>
+        <file>simplifiedsocialshare.js</file>
+        <file>index.html</file>
+    </files>
+</extension>
